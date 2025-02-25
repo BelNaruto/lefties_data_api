@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Lefties Data API! This comprehensive API provides access to Lefties fashion data, including products, categories, stores, and more. Whether you're building a shopping app, creating a fashion recommendation system, or just exploring what Lefties has to offer, this API makes it easy to access and utilize their data.
+Welcome to the Lefties Unofficial Data API! This comprehensive API provides access to Lefties fashion data, including products, categories, stores, and more. Whether you're building a shopping app, creating a fashion recommendation system, or just exploring what Lefties has to offer, this API makes it easy to access and utilize their data.
 
 This documentation is designed specifically for beginners, with clear explanations and examples to help you get started quickly.
 
